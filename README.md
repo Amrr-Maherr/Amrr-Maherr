@@ -15,16 +15,20 @@ I’m Amr Maher Ali, a Front-End Developer with a solid background in cutting-ed
 ## Skills & Technologies 🛠️
 
 ### Core Technologies
-- **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 🌐
+- **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 🎨
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ⚙️
+- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ⚛️
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 🏗️
 
 ### Development Tools
-- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- **VSCode** ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 🔧
+- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 💻
+- **VSCode** ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 📝
+
+### API Integration
+- **AJAX** ![AJAX](https://img.shields.io/badge/AJAX-0091D5?style=flat&logo=ajax&logoColor=white) 🌍  
+  I’m skilled at working with APIs using AJAX to create dynamic and data-driven web applications.
 
 ## Projects 🚀
 

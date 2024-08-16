@@ -55,7 +55,7 @@ Feel free to contribute to any of the projects. Please follow the guidelines in 
 ## Contact 📧
 
 - **Email:** [amrr.maherr24@gmail.com](mailto:amrr.maherr24@gmail.com) 📬  
-- **LinkedIn:** [Amr Maher Ali](https://www.linkedin.com/in/amr-maher-ali) 💼  
+- **LinkedIn:** [Amr Maher Ali](https://www.linkedin.com/in/Amrr-Maherr) 💼  
 - **Twitter:** [@3mrr__maherr](https://twitter.com/3mrr__maherr) 🐦  
 - **Portfolio:** [amrr-maherr.github.io](https://amrr-maherr.github.io) 🌐  
 - **Mostaql:** [My Mostaql Profile](https://mostaql.com/u/3mrr_maherr) 🌟  

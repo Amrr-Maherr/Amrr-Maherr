@@ -4,7 +4,7 @@ Thank you for visiting! I’m excited to share my work with you. I’m a passion
 ## About Me 🧑‍💻
 I’m Amr Maher Ali, a Front-End Developer with a solid background in cutting-edge web technologies. I am passionate about building effective web solutions and enjoy collaborating with diverse teams to achieve outstanding results. If you’re interested in working together or have any questions, feel free to reach out!
 
-- 👋 Hi, I’m @Amr0Maher
+- 👋 Hi, I’m @Amrr-Maherr
 - 👀 I’m interested in creating engaging web applications and exploring new web technologies.
 - 🌱 I’m currently learning advanced React techniques and keeping up with the latest trends in web development.
 - 💞️ I’m looking to collaborate on innovative front-end projects and cutting-edge user interfaces.

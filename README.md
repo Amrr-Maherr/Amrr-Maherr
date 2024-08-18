@@ -71,7 +71,7 @@ Welcome to **TourEg Museum**! This project showcases my exploration of the CSS f
 
 The **FoodJoy** website leverages Bootstrap's Grid System to effectively structure the page into rows and columns, organizing content such as menus and reservation forms. This approach ensures a polished and user-friendly experience across all devices.
 
-![Screenshot of FoodJoy Website](https://github.com/Amrr-Maherr/FoodJoy/blob/master/FoodJoy%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_54_56%20PM.png?raw=true)
+![Screenshot of FoodJoy Website](https://github.com/Amrr-Maherr/FoodJoy/blob/master/readme-images/TourEg%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_18_2024%207_04_40%20PM.png?raw=true)
 
 *Technologies Used:* ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 *About:* The FoodJoy site uses Bootstrap’s Grid System to ensure a fully responsive and well-organized layout. It provides an optimal experience across all device sizes with a focus on usability and aesthetics.  

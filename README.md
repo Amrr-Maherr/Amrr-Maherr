@@ -59,7 +59,7 @@ Welcome to **TourEg Museum**! This project showcases my exploration of the CSS f
 
 **Furnify** is a project where I delved into the practical application of Flexbox and CSS Grid. I employed Flexbox for flexible layouts and CSS Grid for precise grid-based designs. This hands-on experience significantly enhanced my ability to craft responsive and visually appealing web layouts.
 
-![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20_%20%D9%85%D8%B3%D8%AA%D9%82%D9%84%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_51_38%20PM.png?raw=true)
+![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/readme-images/TourEg%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_18_2024%207_03_32%20PM.png?raw=true)
 
 *Technologies Used:* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Flexbox](https://img.shields.io/badge/Flexbox-000000?style=flat&logo=flexbox&logoColor=white) ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-000000?style=flat&logo=css3&logoColor=white)  
 *About:* This project showcases the use of Flexbox and CSS Grid for creating adaptable web layouts. Note: Despite the use of these technologies, some responsiveness issues persist on certain screen sizes.  

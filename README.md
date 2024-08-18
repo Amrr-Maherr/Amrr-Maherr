@@ -47,7 +47,7 @@ I’m **Amr Maher Ali**, a Front-End Developer with a solid background in cuttin
 
 Welcome to **TourEg Museum**! This project showcases my exploration of the CSS float property for organizing content. Dive into our collection of Egyptian artifacts and experience the unique design challenges of using float technology.
 
-![Screenshot of TourEg Project](https://github.com/Amrr-Maherr/TourEg/blob/master/TourEg%20and%2014%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%206_23_2024%2010_42_59%20AM.png?raw=true)
+![Screenshot of TourEg Project]([https://github.com/Amrr-Maherr/TourEg/blob/master/TourEg%20and%2014%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%206_23_2024%2010_42_59%20AM.png?raw=true](https://github.com/Amrr-Maherr/TourEg/blob/master/readme-images/TourEg%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_18_2024%207_01_57%20PM.png?raw=true))
 
 *Technologies Used:* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 *About:* This project demonstrates the use of CSS float for layout organization. Note: This project is not fully responsive and may not adapt well to all screen sizes.  

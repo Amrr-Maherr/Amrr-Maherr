@@ -35,6 +35,8 @@ I’m Amr Maher Ali, a Front-End Developer with a solid background in cutting-ed
 ### [TourEg Museum](https://amrr-maherr.github.io/TourEg/)
 Welcome to TourEg Museum! This project showcases my exploration of the CSS float property for organizing content. Dive into our collection of Egyptian artifacts and experience the unique design challenges of using float technology.
 
+![Screenshot of TourEg Project](https://github.com/Amrr-Maherr/TourEg/blob/master/TourEg%20and%2014%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%206_23_2024%2010_42_59%20AM.png?raw=true)
+
 *Technologies Used:* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 *About:* This project demonstrates the use of CSS float for layout organization. Note: This project is not fully responsive and may not adapt well to all screen sizes.  
 *📦 Demo:* [TourEg Museum](https://amrr-maherr.github.io/TourEg/)
@@ -42,12 +44,16 @@ Welcome to TourEg Museum! This project showcases my exploration of the CSS float
 ### [Furnify](https://amrr-maherr.github.io/Furnify/)
 Furnify is a project where I delved into the practical application of Flexbox and CSS Grid. I employed Flexbox for flexible layouts and CSS Grid for precise grid-based designs. This hands-on experience significantly enhanced my ability to craft responsive and visually appealing web layouts.
 
+![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20_%20%D9%85%D8%B3%D8%AA%D9%82%D9%84%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_51_38%20PM.png?raw=true)![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20_%20%D9%85%D8%B3%D8%AA%D9%82%D9%84%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_51_38%20PM.png?raw=true)![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20_%20%D9%85%D8%B3%D8%AA%D9%82%D9%84%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_51_38%20PM.png?raw=true)![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20_%20%D9%85%D8%B3%D8%AA%D9%82%D9%84%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_51_38%20PM.png?raw=true)
+
 *Technologies Used:* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Flexbox](https://img.shields.io/badge/Flexbox-000000?style=flat&logo=flexbox&logoColor=white) ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-000000?style=flat&logo=css3&logoColor=white)  
 *About:* This project showcases the use of Flexbox and CSS Grid for creating adaptable web layouts. Note: Despite the use of these technologies, some responsiveness issues persist on certain screen sizes.  
 *📦 Demo:* [Furnify](https://amrr-maherr.github.io/Furnify/)
 
 ### [FoodJoy](https://amrr-maherr.github.io/FoodJoy/)
 The FoodJoy website leverages Bootstrap's Grid System to effectively structure the page into rows and columns, organizing content such as menus and reservation forms. This approach ensures a polished and user-friendly experience across all devices.
+
+![Screenshot of FoodJoy Website](https://github.com/Amrr-Maherr/FoodJoy/blob/master/FoodJoy%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_54_56%20PM.png?raw=true)
 
 *Technologies Used:* ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 *About:* The FoodJoy site uses Bootstrap’s Grid System to ensure a fully responsive and well-organized layout. It provides an optimal experience across all device sizes with a focus on usability and aesthetics.  

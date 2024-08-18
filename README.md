@@ -6,9 +6,9 @@ Thank you for visiting! I’m excited to share my work with you. I’m a passion
 
 ## About Me 🧑‍💻
 
-I’m Amr Maher Ali, a Front-End Developer with a solid background in cutting-edge web technologies. I am passionate about building effective web solutions and enjoy collaborating with diverse teams to achieve outstanding results. If you’re interested in working together or have any questions, feel free to reach out!
+I’m **Amr Maher Ali**, a Front-End Developer with a solid background in cutting-edge web technologies. I hold a Bachelor's degree in **Management Information Systems** from **M.E.T Academy**. I am passionate about building effective web solutions and enjoy collaborating with diverse teams to achieve outstanding results. If you’re interested in working together or have any questions, feel free to reach out!
 
-- 👋 Hi, I’m @Amrr-Maherr
+- 👋 Hi, I’m [@Amrr-Maherr](https://github.com/Amrr-Maherr)
 - 👀 I’m interested in creating engaging web applications and exploring new web technologies.
 - 🌱 I’m currently learning advanced React techniques and keeping up with the latest trends in web development.
 - 💞️ I’m looking to collaborate on innovative front-end projects and cutting-edge user interfaces.
@@ -45,7 +45,7 @@ I’m Amr Maher Ali, a Front-End Developer with a solid background in cutting-ed
 
 ### [TourEg Museum](https://amrr-maherr.github.io/TourEg/)
 
-Welcome to TourEg Museum! This project showcases my exploration of the CSS float property for organizing content. Dive into our collection of Egyptian artifacts and experience the unique design challenges of using float technology.
+Welcome to **TourEg Museum**! This project showcases my exploration of the CSS float property for organizing content. Dive into our collection of Egyptian artifacts and experience the unique design challenges of using float technology.
 
 ![Screenshot of TourEg Project](https://github.com/Amrr-Maherr/TourEg/blob/master/TourEg%20and%2014%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%206_23_2024%2010_42_59%20AM.png?raw=true)
 
@@ -57,7 +57,7 @@ Welcome to TourEg Museum! This project showcases my exploration of the CSS float
 
 ### [Furnify](https://amrr-maherr.github.io/Furnify/)
 
-Furnify is a project where I delved into the practical application of Flexbox and CSS Grid. I employed Flexbox for flexible layouts and CSS Grid for precise grid-based designs. This hands-on experience significantly enhanced my ability to craft responsive and visually appealing web layouts.
+**Furnify** is a project where I delved into the practical application of Flexbox and CSS Grid. I employed Flexbox for flexible layouts and CSS Grid for precise grid-based designs. This hands-on experience significantly enhanced my ability to craft responsive and visually appealing web layouts.
 
 ![Screenshot of Furnify Project](https://github.com/Amrr-Maherr/Furnify/blob/master/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20_%20%D9%85%D8%B3%D8%AA%D9%82%D9%84%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_51_38%20PM.png?raw=true)
 
@@ -69,7 +69,7 @@ Furnify is a project where I delved into the practical application of Flexbox an
 
 ### [FoodJoy](https://amrr-maherr.github.io/FoodJoy/)
 
-The FoodJoy website leverages Bootstrap's Grid System to effectively structure the page into rows and columns, organizing content such as menus and reservation forms. This approach ensures a polished and user-friendly experience across all devices.
+The **FoodJoy** website leverages Bootstrap's Grid System to effectively structure the page into rows and columns, organizing content such as menus and reservation forms. This approach ensures a polished and user-friendly experience across all devices.
 
 ![Screenshot of FoodJoy Website](https://github.com/Amrr-Maherr/FoodJoy/blob/master/FoodJoy%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%208_15_2024%208_54_56%20PM.png?raw=true)
 

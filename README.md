@@ -8,7 +8,7 @@ Thank you for visiting! I’m a passionate Front-End Developer specializing in m
 
 I’m **Amr Maher Ali**, a Front-End Developer with a Bachelor's degree in **Management Information Systems** from **M.E.T Academy**. 
 
-I completed the Front-End Development track with **SEF Academy**, which enhanced my skills in building responsive and dynamic web applications.
+I recently completed a **Front-End Development Diploma** from **SEF Academy**, where I ranked **13th in my class with a score of 96%**. This experience enhanced my skills in building responsive and dynamic web applications.
 
 I'm focused on building effective web solutions using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **React**. I'm always open to new opportunities and collaborations.
 
@@ -33,6 +33,7 @@ I am proficient in the following technologies:
 ## Achievements & Certifications 🏆
 
 - **Certified Front-End Developer** from **SEF Academy**
+  - Ranked **13th** in my class with a score of **96%**
 
 ---
 

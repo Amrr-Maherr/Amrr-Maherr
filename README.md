@@ -57,9 +57,6 @@ Feel free to reach out through any of the following:
 
 - **Email:** [amrr.maherr24@gmail.com](mailto:amrr.maherr24@gmail.com)
 - **LinkedIn:** [Amr Maher Ali](https://www.linkedin.com/in/Amrr-Maherr)
-- **Twitter:** [@3mrr__maherr](https://twitter.com/3mrr__maherr)
-- **Portfolio:** [amrr-maherr.github.io](https://amrr-maherr.github.io)
-- **Mostaql:** [My Mostaql Profile](https://mostaql.com/u/Amrr-Maherr)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrr-Maherr&show_icons=true&hide_title=true&count_private=true&hide=prs) <!-- Example of GitHub Stats -->
 

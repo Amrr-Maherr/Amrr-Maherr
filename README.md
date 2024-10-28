@@ -32,16 +32,16 @@ I am proficient in the following technologies:
 
 ## Achievements & Certifications 🏆
 
-- **Certified Front-End Developer** from **SEF Academy**
+- **Certified Front-End Developer** from **SEF Academy** 🏅
   - Ranked **13th** in my class with a score of **96%**
 
 ---
 
 ## Future Goals 🚀
 
-- Master advanced React techniques and state management with Redux
-- Explore newer CSS methodologies and frameworks
-- Enhance my portfolio with more interactive web applications
+- Master advanced React techniques and state management with Redux ⚛️
+- Explore newer CSS methodologies and frameworks 🎨
+- Enhance my portfolio with more interactive web applications 🌐
 
 ---
 
@@ -58,7 +58,7 @@ Feel free to reach out through any of the following:
 - **Email:** [amrr.maherr24@gmail.com](mailto:amrr.maherr24@gmail.com)
 - **LinkedIn:** [Amr Maher Ali](https://www.linkedin.com/in/Amrr-Maherr)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrr-Maherr&show_icons=true&hide_title=true&count_private=true&hide=prs) <!-- Example of GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrr-Maherr&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 

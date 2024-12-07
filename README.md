@@ -10,6 +10,8 @@ I’m **Amr Maher Ali**, a Front-End Developer with a Bachelor's degree in **Man
 
 I recently completed a **Front-End Development Diploma** from **SEF Academy**, where I ranked **13th in my class with a score of 96%**. This experience enhanced my skills in building responsive and dynamic web applications.
 
+I am currently interning at **The Fourth Pyramid Company** where I continue to apply and improve my web development skills.
+
 I'm focused on building effective web solutions using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **React**. I'm always open to new opportunities and collaborations.
 
 - 👋 [GitHub Profile](https://github.com/Amrr-Maherr)

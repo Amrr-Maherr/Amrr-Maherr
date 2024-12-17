@@ -48,12 +48,6 @@ I’m proficient in the following technologies:
 ### Top Languages:  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrr-Maherr&layout=compact&theme=radical)  
 
-### Streak Stats:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amrr-Maherr&theme=react&hide_border=true)  
-
-### Activity Graph:  
-![Amr's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amrr-Maherr&theme=react-dark)  
-
 ---
 
 ## Contributing 🤝  

@@ -23,6 +23,7 @@ I’m proficient in the following technologies:
 - **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 - **React API** ![React API](https://img.shields.io/badge/React_API-61DAFB?style=flat&logo=react&logoColor=black)
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+- **Framer Motion** ![Framer Motion](https://img.shields.io/badge/Framer_Motion-00D8FF?style=flat&logo=framer&logoColor=white)
 
 ---
 

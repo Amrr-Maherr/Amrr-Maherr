@@ -64,7 +64,7 @@ Feel free to reach out through any of the following:
 
 - **Email:** [amrr.maherr24@gmail.com](mailto:amrr.maherr24@gmail.com)  
 - **LinkedIn:** [Amr Maher Ali](https://www.linkedin.com/in/Amrr-Maherr)  
-- **CV:** [Download My CV](https://drive.google.com/file/d/1Sw4VwnQa1GbO_2ssbn5ehPZsPVG53kA9/view?usp=drive_link)  
+- **CV:** [Download My CV](https://drive.google.com/file/d/1fXuG-6qQqslxziECukrxc59tOENOhVER/view?usp=drive_link)  
 
 ---
 

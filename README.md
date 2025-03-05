@@ -26,6 +26,8 @@ I’m proficient in the following technologies:
 - **Framer Motion** ![Framer Motion](https://img.shields.io/badge/Framer_Motion-00D8FF?style=flat&logo=framer&logoColor=white)
 - **Next.js** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 - **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- **Redux** ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+- **Redux Toolkit** ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
 ---
 
@@ -38,11 +40,12 @@ I’m proficient in the following technologies:
 
 ## Future Goals 🚀
 
-- Master advanced React techniques and state management with Redux ⚛️
+- Master advanced React techniques and state management with Redux and Redux Toolkit ⚛️
 - Explore newer CSS methodologies and frameworks 🎨
 - Enhance my portfolio with interactive and innovative web applications 🌐
 - Deepen my expertise in Next.js for building scalable and performant web applications.
 - Become proficient in Tailwind CSS for rapid and responsive UI development.
+- Implement Redux Toolkit for efficient and maintainable state management in complex applications.
 
 ---
 

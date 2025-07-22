@@ -6,7 +6,7 @@ A passionate Front-End Developer from Egypt 🇪🇬
 - Completed a Front-End Development Diploma from SEF Academy (Ranked **13th** in class with a score of **96%**)  
 
 💻 **Skills & Technologies:**  
-- **Frontend:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript (ES6+), React.js, Redux  
+- **Frontend:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript (ES6+), React.js, Next.js, Redux, React native
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Version Control:** Git & GitHub  
 - **Other Tools:** REST APIs

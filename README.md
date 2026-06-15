@@ -1,43 +1,30 @@
-# Hi 👋, I'm Amr Maher Ali  
-A passionate Front-End Developer from Egypt 🇪🇬  
+# Amr Maher Ali
 
-🎓 **Education:**  
-- Bachelor's degree in Management Information Systems from M.E.T Academy  
-- Completed a Front-End Development Diploma from SEF Academy (Ranked **13th** in class with a score of **96%**)  
+### Mid-Level Front-End Developer | React.js | Next.js | React Native
 
-💻 **Skills & Technologies:**  
-- **Frontend:** HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, JavaScript (ES6+), React.js, Next.js, Redux, React Native  
-- **Version Control:** Git & GitHub  
-- **Other Tools:** REST APIs  
+Front-End Developer with professional experience building scalable, responsive, and user-focused web and mobile applications. Specialized in React.js, Next.js, and React Native, with a strong understanding of modern frontend architecture, state management, API integration, and performance optimization.
 
-🚀 **Languages and Tools I Use:**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>  
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
-</p>
+## Education
 
-⚡ **Currently Learning:**  
-- Advanced React patterns & state management with Redux  
-- Server-side rendering with Next.js  
-- Performance optimization for web applications  
+- Bachelor's Degree in Management Information Systems (MIS) – M.E.T Academy
 
-📬 **Where to find me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Amrr-Maherr)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=web)](https://amrr-maherr.github.io)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Amrr-Maherr)  
-[![Mostaql](https://img.shields.io/badge/Mostaql-Profile-orange?style=for-the-badge&logo=freelancer)](https://mostaql.com/u/Amrr-Maherr)  
+## Tech Stack
+
+**Frontend:**  
+HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Redux, React Native
+
+**UI & Styling:**  
+Tailwind CSS, Bootstrap, Material UI
+
+**Tools:**  
+Git, GitHub, REST APIs
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/Amrr-Maherr
+- Portfolio: amrr-maherr.github.io
+- GitHub: github.com/Amrr-Maherr
+- Mostaql: mostaql.com/u/Amrr-Maherr
 
 ---
-
-## 📊 GitHub Stats
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrr-Maherr&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrr-Maherr&layout=compact&theme=radical)  
+*Focused on building high-quality, maintainable, and performant applications while continuously improving my technical and problem-solving skills.*

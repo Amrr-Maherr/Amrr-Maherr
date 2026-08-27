@@ -1,5 +1,6 @@
 # 💫 About Me:
-Front-End Developer with professional experience building scalable, responsive, and user-focused web and mobile applications. Specialized in React.js, Next.js, and React Native, with solid experience in modern frontend architecture, state management, API integration, and performance optimization. Experienced in developing maintainable, production-ready applications and working effectively within cross-functional teams.<br>
+Full-Stack Developer with professional experience building scalable, responsive, and user-focused web and mobile applications. Specialized in React.js, Next.js, Node.js, Express.js, and React Native, with solid experience across modern frontend and backend architecture, RESTful API development, database integration, authentication, state management, and performance optimization. Experienced in developing maintainable, production-ready applications and working effectively within cross-functional teams to deliver reliable and scalable solutions.
+
 
 
 ## 🌐 Socials:

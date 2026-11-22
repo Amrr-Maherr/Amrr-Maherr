@@ -41,14 +41,18 @@ Front-End Developer focused on React, Next.js, TypeScript, and React Native. I b
 
 </div>
 
-## GitHub activity
+<details>
+<summary>GitHub activity</summary>
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Amrr-Maherr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amrr-Maherr&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=Amrr-Maherr&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+</div>
+
+</details>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=100&section=footer" width="100%" alt="" />
 

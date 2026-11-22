@@ -18,19 +18,9 @@ Front-End Developer focused on React, Next.js, TypeScript, and React Native. I b
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td width="50%"><h3><a href="https://github.com/Amrr-Maherr/On">On</a></h3></td>
-    <td width="50%"><h3><a href="https://github.com/Amrr-Maherr/imdb-stream">IMDB Stream</a></h3></td>
-  </tr>
-  <tr>
-    <td><h3><a href="https://github.com/Amrr-Maherr/Atlas-ERP">Atlas-ERP</a></h3></td>
-    <td><h3><a href="https://github.com/Amrr-Maherr/Viva">Viva</a></h3></td>
-  </tr>
-  <tr>
-    <td colspan="2"><h3><a href="https://github.com/Amrr-Maherr/Bundle-Builder">Bundle-Builder</a></h3></td>
-  </tr>
-</table>
+[On](https://github.com/Amrr-Maherr/On) &nbsp; · &nbsp; [IMDB Stream](https://github.com/Amrr-Maherr/imdb-stream) &nbsp; · &nbsp; [Atlas-ERP](https://github.com/Amrr-Maherr/Atlas-ERP)
+
+[Viva](https://github.com/Amrr-Maherr/Viva) &nbsp; · &nbsp; [Bundle-Builder](https://github.com/Amrr-Maherr/Bundle-Builder)
 
 ## Tech stack
 

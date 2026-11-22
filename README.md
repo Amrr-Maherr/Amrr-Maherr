@@ -1,45 +1,55 @@
 <div align="center">
 
-# Amr Maher
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Amr%20Maher&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Front-End%20Developer&descAlignY=60&descSize=20" width="100%" alt="Amr Maher, Front-End Developer" />
 
-### Front-End Developer
-
-`React` · `Next.js` · `TypeScript` · `React Native`
-
-[LinkedIn](https://www.linkedin.com/in/amrr-maherr/) &nbsp; · &nbsp; [Email](mailto:amrr.maherr24@gmail.com)
+<a href="https://www.linkedin.com/in/amrr-maherr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amrr.maherr24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
----
 
 ## About
 
 Front-End Developer focused on React, Next.js, TypeScript, and React Native. I build eCommerce stores at NEOXERO using Zid and Salla, with additional backend knowledge in Node.js, Express.js, and MongoDB.
 
-## Selected projects
-
-[On](https://github.com/Amrr-Maherr/On) &nbsp; · &nbsp; [IMDB Stream](https://github.com/Amrr-Maherr/imdb-stream) &nbsp; · &nbsp; [Atlas-ERP](https://github.com/Amrr-Maherr/Atlas-ERP)
-
-[Viva](https://github.com/Amrr-Maherr/Viva) &nbsp; · &nbsp; [Bundle-Builder](https://github.com/Amrr-Maherr/Bundle-Builder)
-
 ## Tech stack
 
-**Front end**  
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3`
+<div align="center">
 
-**Mobile**  
-`React Native`
+**Front end**
 
-**Backend knowledge**  
-`Node.js` · `Express.js` · `MongoDB`
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3" />
 
-<details>
-<summary>GitHub activity</summary>
+**Mobile**
 
-![](https://github-readme-stats.shion.dev/api?username=Amrr-Maherr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" /> React Native
 
-![](https://streak-stats.demolab.com/?user=Amrr-Maherr&theme=dark&hide_border=false)
+**Backend knowledge**
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amrr-Maherr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js, MongoDB" />
 
-</details>
+</div>
+
+## Selected projects
+
+<div align="center">
+
+<a href="https://github.com/Amrr-Maherr/On"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Amrr-Maherr&repo=On&theme=tokyonight&hide_border=true" alt="On" /></a>
+<a href="https://github.com/Amrr-Maherr/imdb-stream"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Amrr-Maherr&repo=imdb-stream&theme=tokyonight&hide_border=true" alt="imdb-stream" /></a>
+<a href="https://github.com/Amrr-Maherr/Atlas-ERP"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Amrr-Maherr&repo=Atlas-ERP&theme=tokyonight&hide_border=true" alt="Atlas-ERP" /></a>
+<a href="https://github.com/Amrr-Maherr/Viva"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Amrr-Maherr&repo=Viva&theme=tokyonight&hide_border=true" alt="Viva" /></a>
+<a href="https://github.com/Amrr-Maherr/Bundle-Builder"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Amrr-Maherr&repo=Bundle-Builder&theme=tokyonight&hide_border=true" alt="Bundle-Builder" /></a>
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Amrr-Maherr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amrr-Maherr&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Amrr-Maherr&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="" />
+
+</div>

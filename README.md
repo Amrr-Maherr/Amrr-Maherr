@@ -29,17 +29,14 @@ Front-End Developer focused on React, Next.js, TypeScript, and React Native. I b
 
 </div>
 
-## Selected projects
+## Featured projects
 
-<div align="center">
-
-<a href="https://github.com/Amrr-Maherr/On"><img src="https://img.shields.io/badge/On-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="On" /></a>
-<a href="https://github.com/Amrr-Maherr/imdb-stream"><img src="https://img.shields.io/badge/IMDB%20Stream-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="IMDB Stream" /></a>
-<a href="https://github.com/Amrr-Maherr/Atlas-ERP"><img src="https://img.shields.io/badge/Atlas--ERP-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="Atlas-ERP" /></a>
-<a href="https://github.com/Amrr-Maherr/Viva"><img src="https://img.shields.io/badge/Viva-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="Viva" /></a>
-<a href="https://github.com/Amrr-Maherr/Bundle-Builder"><img src="https://img.shields.io/badge/Bundle--Builder-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="Bundle-Builder" /></a>
-
-</div>
+- **[Viva](https://github.com/Amrr-Maherr/Viva)**: cross-platform e-commerce mobile app with catalog, cart, wishlist, checkout, and an AI shopping assistant. React Native, Expo, TypeScript.
+- **[IMDB Stream](https://github.com/Amrr-Maherr/imdb-stream)**: movie and TV discovery platform with AI recommendations, Firebase auth, watchlists, and bilingual EN/AR support with RTL. Next.js, React, TypeScript.
+- **[On](https://github.com/Amrr-Maherr/On)**: production-ready e-commerce platform with a scalable architecture and full i18n. React, TypeScript, Vite, TanStack Query.
+- **[Atlas-ERP](https://github.com/Amrr-Maherr/Atlas-ERP)**: enterprise ERP dashboard with a feature-based architecture. Next.js, React, TypeScript.
+- **[YouTube](https://github.com/Amrr-Maherr/Youtube)**: YouTube client on the real Data API v3 with live search and autocomplete, playback, channel pages, and PWA support. React 19, TypeScript, Vite.
+- **[portfolio-2025](https://github.com/Amrr-Maherr/portfolio-2025)**: bilingual EN/AR personal portfolio with 27 project case studies, GSAP motion, and three.js shader effects. Vue 3, TypeScript, Vite. [Live site](https://amr-dev-portfolio-drab.vercel.app)
 
 <details>
 <summary>GitHub activity</summary>
